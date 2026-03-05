@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes</h1>
+<h1>Any2Any: Unified Arbitrary Modality Translation for Remote Sensing</h1>
 
 Haoyang Chen<sup>1,2</sup>, 
 Jing Zhang<sup>1,2 †</sup>, 
