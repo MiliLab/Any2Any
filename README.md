@@ -32,7 +32,7 @@ Bo Du<sup>1,2 †</sup>.
 
 ## 🔥 Update
 
-**2025.11.25**
+**2026.3.5**
 - The paper is post on arXiv **([arXiv 2603.04114](https://arxiv.org/abs/2603.04114))** 
 
 ## 🌞 Abstract
