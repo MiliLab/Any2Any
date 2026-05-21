@@ -32,8 +32,12 @@ Bo Du<sup>1,2 †</sup>.
 
 ## 🔥 Update
 
+**2026.5.21**
+
+- Datasets, source codes and model weights will be gradually open-sourced within the next month
+
 **2026.5.1**
-- The paper is accepted by ICML 2026. (Datasets, source codes and model weights will be gradually open-sourced within the next month)
+- The paper is accepted by ICML 2026.
 
 **2026.3.5**
 - The paper is post on arXiv **([arXiv 2603.04114](https://arxiv.org/abs/2603.04114))** 
