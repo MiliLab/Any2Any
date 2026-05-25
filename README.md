@@ -66,19 +66,20 @@ The RST-1M is Coming Soon.
 
 </div>
 
-The checkpoints are Coming Soon.
+The VAE checkpoints is released.
+
+The other checkpoints will release within the next week.
 
 ## 🔨 Usage
 
 ### Training
 
-Wait for update.
+The training script will release within the next week.
 
 ### Inference
 
-We provide an inference script:
+The inference script will release within the next week.
 
-Wait for update.
 
 ## 🍭 Results
 
