@@ -106,7 +106,7 @@ If you find Any2Any helpful, please give a ⭐ and cite it as follows:
 
 ```
 
-@article{chen2026any2any,
+@article{chen2026Any2Any,
   title={Any2Any: Unified Arbitrary Modality Translation for Remote Sensing},
   author={Chen, Haoyang and Zhang, Jing and Wang, Hebaixu and Wang, Shiqin and Huang, Pohsun and Li, Jiayuan and Guo, Haonan and Wang, Di and Wang, Zheng and Du, Bo},
   journal={arXiv preprint arXiv:2603.04114},
