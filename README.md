@@ -1,23 +1,6 @@
 
 <div align="center">
 
-<h1>Any2Any: Unified Arbitrary Modality Translation for Remote Sensing</h1>
-
-Haoyang Chen<sup>1,2</sup>, 
-Jing Zhang<sup>1,2 †</sup>, 
-Hebaixu Wang<sup>1,2</sup>, 
-Shiqin Wang<sup>1</sup>, 
-PoHsun Huang<sup>1</sup>, 
-Jiayuan Li<sup>2,3</sup>, 
-Haonan Guo<sup>1,2</sup>, 
-Di Wang<sup>1,2 †</sup>, 
-Zheng Wang<sup>1,2 †</sup>, 
-Bo Du<sup>1,2 †</sup>.
-
-<sup>1</sup> Wuhan University,  <sup>2</sup> Zhongguancun Academy,  <sup>3</sup> Beijing Institute of Technology.
-
-<sup>†</sup> Corresponding author
-
 </div>
 
 <p align="center">
@@ -122,7 +105,7 @@ If you find Any2Any helpful, please give a ⭐ and cite it as follows:
 
 ```
 
-@article{chen2026Any2Any,
+@article{chen2026any2any,
   title={Any2Any: Unified Arbitrary Modality Translation for Remote Sensing},
   author={Chen, Haoyang and Zhang, Jing and Wang, Hebaixu and Wang, Shiqin and Huang, Pohsun and Li, Jiayuan and Guo, Haonan and Wang, Di and Wang, Zheng and Du, Bo},
   journal={arXiv preprint arXiv:2603.04114},
