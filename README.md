@@ -54,7 +54,7 @@ Multi-modal remote sensing imagery provides complementary observations of the sa
 
 The RST-1M is Coming Soon.
 
-## 🚀 Model
+## 🚀 Checkpoints
 
 <div align="center">
 <img src=Images/figure3.png width="100%">
@@ -66,7 +66,7 @@ The RST-1M is Coming Soon.
 
 </div>
 
-The VAE checkpoints is released.
+**The VAE checkpoints is released.**
 
 The other checkpoints will release within the next week.
 
