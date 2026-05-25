@@ -68,6 +68,8 @@ The RST-1M is Coming Soon.
 
 **The VAE checkpoints is released.**
 
+Please refer to https://pan.baidu.com/s/1OrZSRN80t12QsiUAIjhugA?pwd=rsut
+
 The other checkpoints will release within the next week.
 
 ## 🔨 Usage
