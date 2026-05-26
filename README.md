@@ -15,6 +15,10 @@
 
 ## 🔥 Update
 
+**Until Today**
+
+- The VAE checkpoints is released.
+
 **2026.5.21**
 
 - Datasets, source codes and model weights will be gradually open-sourced within the next month
