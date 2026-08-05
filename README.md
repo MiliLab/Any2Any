@@ -17,11 +17,9 @@
 
 **Until Today**
 
+- The code is released.
 - The VAE checkpoints is released.
 
-**2026.5.21**
-
-- Datasets, source codes and model weights will be gradually open-sourced within the next month
 
 **2026.5.1**
 - The paper is accepted by ICML 2026.
